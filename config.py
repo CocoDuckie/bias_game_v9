@@ -17,7 +17,7 @@ STARTING_PRICE = 100.0
 NUM_ROUNDS = 8
 ASSET_NAME = "STEELSTOX"
 CURRENCY = "USD"
-SKIP_ROUND_QUESTIONS = True         # testing shortcut; set False to re-enable quizzes
+SKIP_ROUND_QUESTIONS = False         # testing shortcut; set False to re-enable quizzes
 
 # ──────────────────────────────────────────────────────────────────────
 # TRADE SIZE — categorical → numeric mapping
